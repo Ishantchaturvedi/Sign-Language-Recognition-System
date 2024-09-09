@@ -1,4 +1,4 @@
-#Sign Language recognition System
+Sign Language recognition System
 
 Sign language is the only tool of communication for the person who is not able to
 speak and hear anything. Sign language is a boon for the physically challenged people
